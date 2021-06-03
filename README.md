@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radheemrazi
 - 👀 I’m interested in Data Science, Blockchain and anything fascinating 😊 
-- 🌱 I’m currently learning Blockchain 
+- 🌱 I’m currently learning Blockchain, DeFi and Algorithmic trading
 - 📫 Reach me on sheikh.radheem@gmail.com
 
 <!---
